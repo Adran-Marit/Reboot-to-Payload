@@ -39,6 +39,7 @@ EXEFS_SRC	:=	exefs_src
 APP_TITLE	:=	Reboot to Payload
 APP_AUTHOR	:=	Atmosphere-NX
 APP_VERSION	:=	1.0.0
+ICON 		:=	source/Icon.jpg
 #ROMFS	:=	romfs
 
 #---------------------------------------------------------------------------------
